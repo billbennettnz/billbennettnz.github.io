@@ -53,32 +53,22 @@ Indieweb share and like buttons.
 8. Ability to post stories remotely and have them publish automatically. 
 9. Excerpts - *not sure if this is necessary*
 
+#### Permalinks 
+Want to change format from:
+
+https://www.digitl.nz/wordpress/2022/01/12/From-WordPress-to-Jekyll-Project.html
+
+to
+
+digitl.nz/from-wordpress-to-jekyll-project
+
+The 
 
 ### Things to explore	
 - Whether I can embed images and captions with *alt text* in my Markdown editor.
 - Adding in the PressPatron banner that is at the top of pages on my WordPress site.
 - Change theme to use only system fonts.
 
-
-### Progress
-**Permalinks**
-Wanted to change format from:
-
-https://www.digitl.nz/wordpress/2022/01/12/From-WordPress-to-Jekyll-Project.html
-
-to
-
-digitl.nz/wordpress/from-wordpress-to-jekyll-project
-
-without the .html extension
-
-Managed to get a permalink for this page without the date using the *permalink:* setting in _config.yml 
-
-Also managed to drop the .html extension. 
-
-but am now stuck with the code %20 between words in the permalink.
-
-- There could be a problem with permalinks later as, unlike WordPress, Jekyll can't spot duplicate URLs on the site. Need to work on this. 
 
 ### Moved to done
 **Breadcrumbs**
