@@ -23,7 +23,7 @@ author:
 name: bill bennett
 email: bill@billbennett.co.nz
 description: >- # this means to ignore newlines until "baseurl:"
-  This my site for testing Jekyll. 
+  This is my site for testing Jekyll. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: billbennettnz
