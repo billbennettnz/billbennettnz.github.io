@@ -53,6 +53,8 @@ Indieweb share and like buttons.
 7. Not sure if an XML sitemap is necessary. *More research needed*.
 8. Ability to post stories remotely and have them publish automatically. 
 9. Excerpts - *not sure if this is necessary*
+10. This post has a long URL where wordpress acts as a category - https://www.digitl.nz/wordpress/2022/01/12/From-WordPress-to-Jekyll-Project.html
+I'd like that to be digitl.nz/wordpress/from-wordpress-to-jekyll-project
 
 ### Things to explore	
 Whether I can embed images and captions with *alt text* in my Markdown editor.x`
