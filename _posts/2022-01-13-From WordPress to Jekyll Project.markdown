@@ -2,6 +2,7 @@
 layout: post
 title:  "From WordPress to Jekyll Project"
 date:   2022-01-12 19:55:47 +1300
+permalink: /wordpress/From WordPress to Jekyll Project/
 categories: wordpress
 ---
 
@@ -94,7 +95,7 @@ Verifyed site on GSC. Not essential, but useful for spotting problems when the s
 Turns out this was built-in. 
 
 ### Is there anything I missed?
-Until I've got a comment system working you'll have to tell me by email ;).
+Until I've got a comment system working you'll have to tell me by email ;). [bill@billbennett.co.nz](mailto:bill@billbennett.co.nz)
 
 
 

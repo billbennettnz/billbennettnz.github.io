@@ -340,3 +340,9 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+/** breadcrumbs */
+#breadcrumbs {
+  font-size:small;
+  margin-below:1em;
+}
