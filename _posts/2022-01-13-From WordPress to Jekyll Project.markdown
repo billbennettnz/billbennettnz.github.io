@@ -57,7 +57,8 @@ Indieweb share and like buttons.
 I'd like that to be digitl.nz/wordpress/from-wordpress-to-jekyll-project
 
 ### Things to explore	
-Whether I can embed images and captions with *alt text* in my Markdown editor.x`
+- Whether I can embed images and captions with *alt text* in my Markdown editor.
+- Adding in the PressPatron banner that is at the top of pages on my WordPress site.
 
 ### Is there anything I missed?
 Until I've got a comment system working you'll have to tell me by email ;).
