@@ -2,7 +2,7 @@
 layout: post
 title:  "From WordPress to Jekyll Project"
 date:   2022-01-12 19:55:47 +1300
-permalink: /wordpress/From WordPress to Jekyll Project/
+permalink: /wordpress/from-wordpress-to-jekyll-project/
 categories: wordpress
 ---
 
