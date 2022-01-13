@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: billbennettnz
 github_username:  billbennettnz
 
-permalink: /:title/
+permalink: /:categories/:title/
 
 # Build settings
 theme: minima

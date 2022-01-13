@@ -53,16 +53,6 @@ Indieweb share and like buttons.
 8. Ability to post stories remotely and have them publish automatically. 
 9. Excerpts - *not sure if this is necessary*
 
-#### Permalinks 
-Want to change format from:
-
-https://www.digitl.nz/wordpress/2022/01/12/From-WordPress-to-Jekyll-Project.html
-
-to
-
-digitl.nz/from-wordpress-to-jekyll-project
-
-The 
 
 ### Things to explore	
 - Whether I can embed images and captions with *alt text* in my Markdown editor.
@@ -71,16 +61,21 @@ The
 
 
 ### Moved to done
-**Breadcrumbs**
+**Breadcrumbs**  
 Used the method described on this page:
 
 https://jekyllcodex.org/without-plugin/breadcrumbs/#
 
-**Google Search Console**
+**Google Search Console**  
 Verifyed site on GSC. Not essential, but useful for spotting problems when the site is bigger. 
 
-**RSS feed**
+**RSS feed**  
 Turns out this was built-in. 
+
+**Permalinks**
+Have set up permalinks as: 
+
+site/category/post name
 
 ### Is there anything I missed?
 Until I've got a comment system working you'll have to tell me by email ;). [bill@billbennett.co.nz](mailto:bill@billbennett.co.nz)
