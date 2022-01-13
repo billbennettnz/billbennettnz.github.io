@@ -52,6 +52,7 @@ Indieweb share and like buttons.
 7. Not sure if an XML sitemap is necessary. *More research needed*.
 8. Ability to post stories remotely and have them publish automatically. 
 9. Excerpts - *not sure if this is necessary*
+10. Force permalinks to lower case characters
 
 
 ### Things to explore	
