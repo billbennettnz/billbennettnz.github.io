@@ -61,7 +61,7 @@ I'd like that to be digitl.nz/wordpress/from-wordpress-to-jekyll-project
 - Adding in the PressPatron banner that is at the top of pages on my WordPress site.
 
 ### Is there anything I missed?
-Until I've got a comment system working you'll have to tell me by email ;).
+Until I've got a comment system working you'll have to tell me by email ;). [bill@billbennett.co.nz](mailto:bill@billbennett.co.nz)
 
 
 
