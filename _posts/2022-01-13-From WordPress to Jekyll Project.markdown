@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "From WordPress to Jekyll Project"
+slug: "wordpress-jekyll"
 date:   2022-01-12 19:55:47 +1300
 categories: wordpress
 ---
